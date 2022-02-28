@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two petitions presented to his Excellency the Lord Fairfax. The one by the officers and soldiers of the garrisons of Newcastle, Tinmouth, Hartlepoole, Holy-Isle: together with several officers of Barwick then present. The other by the officers and soldiers commanded by Colonel Hewson. The first presented at Windsor, Friday Novemb. 24. The second on Saturday Novemb. 25. 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95472</idno>
+            <idno type="STC">Wing T3516C</idno>
+            <idno type="STC">Thomason E473_23</idno>
+            <idno type="STC">ESTC R203914</idno>
+            <idno type="EEBO-CITATION">99863693</idno>
+            <idno type="PROQUEST">99863693</idno>
+            <idno type="VID">162443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95472)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162443)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E473[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two petitions presented to his Excellency the Lord Fairfax. The one by the officers and soldiers of the garrisons of Newcastle, Tinmouth, Hartlepoole, Holy-Isle: together with several officers of Barwick then present. The other by the officers and soldiers commanded by Colonel Hewson. The first presented at Windsor, Friday Novemb. 24. The second on Saturday Novemb. 25. 1648.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Prnted [sic] for John Partridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  History, (17th century) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162443:1" rendition="simple:additions"/>
+            <p>TWO PETITIONS Preſented <hi>To His Excellency the Lord Fairfax.</hi>
+            </p>
+            <p>THE ONE By the Officers and Soldiers of the Garriſons of <hi>Newcaſtle, Tinmouth, Hartlepoole, Holy-Jſle:</hi> Together with ſeveral Officers of BARWICK then preſent.</p>
+            <p>The other by the Officers and Soldiers commanded by Colonel <hi>HEWSON.</hi>
+            </p>
+            <p>
+               <hi>The firſt preſented at Windſor, Friday Novemb.</hi> 24.</p>
+            <p>
+               <hi>The ſecond on Saturday Novemb.</hi> 25. 1648.</p>
+            <p>LONDON, Prnted for <hi>John Partridge.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petitions">
+            <div type="petition">
+               <pb facs="tcp:162443:2"/>
+               <pb n="3" facs="tcp:162443:2"/>
+               <head>TO His Excellency the Lord FAIRFAX; <hi>The humble and unanimous Petition and Repreſentation of the Officers and Soldiers of the Garriſons of</hi> Newcaſtle, Tinmouth, Hartle<g ref="char:EOLhyphen"/>pool, Holy-Iſle, <hi>together with ſeveral Officers of</hi> Barwick <hi>then preſent;</hi>
+               </head>
+               <opener>SHEWETH,</opener>
+               <p>THat whereas the whole Kingdom hath groaned un<g ref="char:EOLhyphen"/>der the miſeries of ſeven years unnatural bloody War, occaſioned by the Kings deſerting his Parlia<g ref="char:EOLhyphen"/>ment, levying and marching in the head of an Army againſt them; which (though then principally imputed to the ſeducement of wicked Councellors,) yet was it adjudged by the Parliament, in their Votes of the 20. of <hi>May,</hi> 1642. to be a breach of the Truſt repoſed in him by his people, contrary to his Oath, and tending to the diſſolution of this Govern<g ref="char:EOLhyphen"/>ment.
+<pb n="4" facs="tcp:162443:3"/>But when we conſider what latter times have pro<g ref="char:EOLhyphen"/>duced, as that Declaration of the Houſe of Commons, <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> 11. 1647. and the dayly experience we have of him, we cannot but conceive. That although evil Councellors were very inſtrumental, yet that himſelf was and is the prin<g ref="char:EOLhyphen"/>cipal Author, Contriver, Abettor, Manager of all the Blood<g ref="char:EOLhyphen"/>ſhed, Maſſacres, Devaſtations, and whatſoever Ruines have befaln, not only this Kingdom, but alſo that of Ireland: And we are the rather induced to be of this opinion, in regard that no means poſſible have been left uneſſayed for the gaining him in; witneſs the ſeveral Treaties formerly had with him; the many Petitions, Propoſitions, ſo often tendred to him; and above all the late Treaty of fourty days, which being after a total ſecluſion, for ſo many moneths, from all evil Councellors whatſoever, and after thoſe ſolemn Votes of the Parliament cutting him off from all future hopes of having any thing to do with the Authority of this Kingdom; whereupon followed a Charge of many high Crimes; and being, by a ſpecial over<g ref="char:EOLhyphen"/>ruling hand of providence, diſpoſed not to begin till God himſelf had ſpoke ſo loud from heaven unto him, by deſtroy<g ref="char:EOLhyphen"/>ing all his carnal confidences in a moſt miraculous manner, as that of <hi>Kent,</hi> the Scots Army, and the reſt; ſo that had not his heart been wholy ſhut up and obdurate, and himſelf re<g ref="char:EOLhyphen"/>ſolvedly ſet upon the Deſtruction of the Kingdom, he could not but readily have yeelded to all ſuch things as might have tended to the common good: But we find, that he is ſtill as averſe as ever; and though ſome ſpecious pretences are held forth to delude ignorant ſouls, yet really advantage is thereby made for the laying of a new deſign to bring about his former wicked intentions, as appears by the Princes continu<g ref="char:EOLhyphen"/>ing ſtill in Rebellion, and the late tranſactions of <hi>Ormond</hi> in <hi>Ireland,</hi> not diſavowed by the King; and withall conſider<g ref="char:EOLhyphen"/>ing, That all endeavors, for the bringing of other Inſtruments and Incendiaries to condign puniſhment, while the grand De<g ref="char:EOLhyphen"/>linquent is untouched, are to little purpoſe, as being not an acceptable Sacrifice to the Juſtice of God, to offer him ought elſe, while the <hi>Agag</hi> is ſpared; nor anſwerable, either to the true ſence and equity of all former Declarations and Engage<g ref="char:EOLhyphen"/>ments
+<pb n="5" facs="tcp:162443:3"/>to that purpoſe, (eſpecially that of the Army, upon the Parliaments Votes of Non-addreſſes to the King,) or to the proper end and intention of them, which was not the Ruine, but the Preſervation of the Kingdom.</p>
+               <p>
+                  <hi>We therefore Your humble Petitioners, in conſidera<g ref="char:EOLhyphen"/>tion of the Premiſſes, and encouraged thereunto by the long experience we have had of Your faithfulneſs and readineſs to ſerve Your Coun<g ref="char:EOLhyphen"/>try, do beſeech Your Excellency, that You will now be pleaſed to ſhew Your Self, and to uſe ſuch means as may be effectual; That no fur<g ref="char:EOLhyphen"/>ther Application be made unto the King, but that, according to former Preſidents in this Kingdom upon far leſs Crimes, he may be ſpee<g ref="char:EOLhyphen"/>dily called to anſwer to ſuch Charges, as are, or ſhall be brought in againſt him; and ſo, Justice being done upon him, way will be made, with leſs difficulty and more ſucceſs, for the proſecution of other Offendors, the prevention of future Inſur<g ref="char:EOLhyphen"/>rections, and firm ſetling the Kingdom in Peace and Safety.</hi>
+               </p>
+               <closer>And we ſhall ever pray, <hi>&amp;c.</hi>
+                  <signed>Signed by us the Officers of the ſaid Garriſons with the joynt conſent of the Soldiers, &amp;c.</signed>
+                  <dateline>Preſented to his Excellency the Lord <hi>Fairfax,</hi> Lord General, at <hi>Windſor,</hi> 
+                     <date>Friday <hi>Novemb.</hi> 24. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="petition">
+               <pb n="6" facs="tcp:162443:4"/>
+               <head>TO The Right Honorable <hi>Thomas</hi> Lord <hi>Fairfax,</hi> our noble and faithful General: <hi>The Petition of the Officers and Sol<g ref="char:EOLhyphen"/>diers of the Regiment commanded by Colonel</hi> Hewſon.</head>
+               <opener>Humbly Sheweth,</opener>
+               <p>THat whereas Your Excellency's approved, worth and fidelity have opened the doors and ears to admit and hear any thing, having tendency to the healing of this bruiſed and diſeaſed Kingdom; we being many ways provo<g ref="char:EOLhyphen"/>ked to make a preſent addreſs to the Repreſentatives, know no better nor ſafer hand to convey it by then your own, which is ſo dear unto us: Therefore being more ſadly ſencible of the complaints from all parts, but eſpecially theſe which ſeem to crack the axletree of all our hopes; <hi>viz.</hi> 1. A renewed de<g ref="char:EOLhyphen"/>ſign upon this Army, by forcing us to free quarter, ſtill to make us the contempt and hiſſing of the people, though we crave your witneſs that we have not boggled very often, to make brick without ſtraw, and born burden to the cracking of many faithful ſhoulders, and thereby fill your heart and ours with un<g ref="char:EOLhyphen"/>ſpeakable grief, even almoſt reluctancies, to deſpair, had not your firm influence prevented our diviſions, and thereby the Kingdoms ruine, which would have gratified the Devil, and our enemies, his inſtruments. 2. As Engliſh men we cannot but
+<pb n="7" facs="tcp:162443:4"/>be ſenſible of the inconveniences of this late Treaty, whereby it is attempted to null all Contracts, Proteſtations, Votes, yea to our particular undertaking to bring Delinquents of all ſorts to condign puniſhments, offering thereby more then a conquered; yet implacable enemy, could expect. 3. The exhauſting the peo<g ref="char:EOLhyphen"/>ples treaſure by many ways, Offices and Officers, and no pub<g ref="char:EOLhyphen"/>lique account given thereof, rooted upon curſed ſelf-ſeeking in ſome, maintaining the jealouſies of many. 4. The Kingdom left naked without any ſetled Government, ſo often cry'd for; a Parliament rather being a medicine for mal-adminiſtrations, &amp; an Inſtrument to make Laws with, then a proper Government, as all confeſs. 5. An inequality of puniſhments, cenſures, and compoſitions, as if we had no net made to catch the greater flies. 6. Oppreſſion by Foraign un-Engliſh'd Laws and Lawyers grown to ſwarms when the beſt order'd Common-weals have the feweſt of that brood, and who have been found by their increaſe a Pathagnomical Symptome of a crazy State, and Ca<g ref="char:EOLhyphen"/>clectick Common-wealth. 7. The ſlighting and contemptu<g ref="char:EOLhyphen"/>ous dealing with Petitioners and Petitions, whereby redreſs hath been ſought to the peoples Grievances; a practiſe as dan<g ref="char:EOLhyphen"/>gerous as unuſual, in places where the preſervation of the whole is in the eye and aym of Truſtees.</p>
+               <p>We do therefore heartily and fully concur with our brethren in the Army, in their ſeveral juſt Petitions preſented to your Excellency, calling for Juſtice, and juſt things, and the ſame we do with thoſe in the City and Country, being the rather preſt hereunto, becauſe our late employment hath made ſome of us eye and ear witneſſes of the laſt tranſactions with the grand Enemy, and great abettor of <hi>Ormond</hi> in <hi>Ireland,</hi> his ſon in <hi>Holland,</hi> and any other party that hath but a ſword to draw for his deſtructive deſigns, we know, and therefore ſpeak.</p>
+               <list>
+                  <item>
+                     <hi>Wherefore we most humbly pray, that your Excellency would forthwith communicate theſe our ſighs and reſt<g ref="char:EOLhyphen"/>leſs breathings of our ſpirits to the Parliament.</hi> Viz.</item>
+                  <item>1. <hi>We cannot, we dare not make ſuch a forfeiture of our un<g ref="char:EOLhyphen"/>parelled mercies, nor betray our dear bought Freedom, as to leave our ſelves and the Nation to the Freedom of
+<pb n="8" facs="tcp:162443:5"/>one mans will moſt unhappy in the whole courſe of his raign, and now daſhing this Kingdom into pieces again by his eaſily diſcerned ſubtilties.</hi>
+                  </item>
+                  <item>2. <hi>We deſire all the faithful Patriots of the Commons Houſe, may declare and proteſt againſt all men, under the ſame roof with them, that have ſo plainly betrayed the common ſafety by pardoning</hi> 30. <hi>of</hi> 37. <hi>that were appointed to death, and theſe</hi> 7. <hi>of no note, and but one within reach; for ſending moſt of the reſt as their Agents into France, and other parts, which they call baniſhment.</hi>
+                  </item>
+                  <item>3. <hi>We moſt earneſtly beg, we may be govern'd and free I from fear of confuſion and Anarchy by ſuch a ſettlement as cannot be expected from</hi> 400. <hi>men ſo ſtrangely choſen, and diverſly affected: We wiſh to that purpoſe, that the Government of</hi> Venice, Holland, Switzerland, <hi>and other parts, may be examined, that we may not idolize any one Creature, nor never be any more at this charge, ſince of</hi> 25. <hi>Princes of this Nation many have been impeach'd and depos'd by the ſword of the people in the hands of their Truſtees.</hi>
+                  </item>
+                  <item>4. <hi>We expect that we be not voted against if we do not de<g ref="char:EOLhyphen"/>liver up priſoners in our power upon thoſe eaſie terms voted: We are not ignorant how it is deſign'd, that this Army muſt be provoked to do evil things, and by thoſe men who are vexed, we have done ſo many good.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Deareſt Sir,</hi> In the gaining of theſe, and other righteous things for the poor tattered Nation, we ſhall follow your Excellency through Rocks and Mountains of difficulty, or loſe all in that work; for we having bin ſo often dying, that we would chooſe once to dye in<g ref="char:EOLhyphen"/>deed, that our dear Native Country may Live.</p>
+               <closer>
+                  <dateline>
+                     <hi>Preſented to his Excellency at</hi> Windſor, <date>Saturday, November 25. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
